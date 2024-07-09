@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    align-items: center;
+    margin-bottom: 50px;
+    color:blue;
+}
+button {
+    color: red;
+    cursor: pointer;
+    padding: 10px;
+    border: 1px solid black;
+}
+div{
+    margin-top: 40px;
+}
